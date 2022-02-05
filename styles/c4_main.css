@@ -5,6 +5,10 @@ body {
 	--global-color-1: #800000;
 }
 
+a:hover {
+	font-style: italic;
+}
+
 /* the styles for the header */
 header img {
 	float: left;
@@ -38,7 +42,9 @@ main h3 {
 }
 
 /* the styles for the footer */
-
+footer p {
+	text-align: center;
+}
 
 /* the styles for classes */
 .shadow {
