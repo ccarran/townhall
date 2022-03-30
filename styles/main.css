@@ -48,7 +48,7 @@ header img {
 	padding: 0;
 	position: relative;
 	flex-basis: 100%;
-	justify-content: space-evenly;
+	justify-content: space-around;
 }
 #nav_menu ul li {
     flex-basis: 20%;                 /* 160 / 800 x 100 */
@@ -66,7 +66,7 @@ header img {
 	color: yellow;
 }
 #nav_menu ul ul {
-	width: 100%;
+	width: 20%;
     display: none;
     position: absolute;
     top: 100%;
